@@ -2,7 +2,7 @@ from jmcomic import *
 from jmcomic.cl import JmcomicUI
 
 # 下方填入你要下载的本子的id，一行一个，每行的首尾可以有空白字符
-jm_albums = str_to_list('''
+jm_albums =  '''
 206537
 625305
 590827
@@ -275,7 +275,7 @@ jm_albums = str_to_list('''
 534640
 534573
 
-''')
+'''
 
 # 单独下载章节
 jm_photos = '''
